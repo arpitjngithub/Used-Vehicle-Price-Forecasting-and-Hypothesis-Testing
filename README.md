@@ -2,7 +2,7 @@
 
 
 **Guide:** Prof. Prabhu Ramachandran  
-**Department:** Aerospace Engineering  
+**Department:** Aerospace Engineering , IIT Bombay
 **Course:** AE 248  
 **Project:** Course Project
 
